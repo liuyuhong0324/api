@@ -1,0 +1,45 @@
+[{
+		"name": "湖北师范大学",
+		"url": "http://www.lib.hbnu.edu.cn:81"
+	},
+	{
+		"name": "三峡大学",
+		"url": "http://sulcmis.lib.ctgu.edu.cn"
+	},
+	{
+		"name": "广东外语艺术职业学院",
+		"url": "http://218.192.55.4:84"
+	},
+	{
+		"name": "韶关学院",
+		"url": "http://210.38.192.31:81"
+	},
+	{
+		"name": "广东岭南职业技术学院",
+		"url": "http://59.41.61.219:81"
+	},
+	{
+		"name": "集美大学",
+		"url": "http://smjslib.jmu.edu.cn"
+	},
+	{
+		"name": "五邑大学",
+		"url": "http://libm.wyu.edu.cn"
+	},
+	{
+		"name": "广州珠江职业技术学院",
+		"url": "http://121.33.189.133:8085"
+	},
+	{
+		"name": "广东海洋大学寸金学院",
+		"url": "http://219.129.7.243:81"
+	},
+	{
+		"name": "河南农业职业学院",
+		"url": "http://60.205.212.164"
+	},
+	{
+		"name": "深圳技术大学",
+		"url": "http://oleopac.lib.szu.edu.cn"
+	}
+]
