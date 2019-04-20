@@ -1,4 +1,9 @@
-[{
+[
+	{
+                "name": "广州城建职业学院",
+                "url": "http://sttsg.gzccc.edu.cn"
+        },
+	{
 		"name": "湖北师范大学",
 		"url": "http://www.lib.hbnu.edu.cn:81"
 	},
